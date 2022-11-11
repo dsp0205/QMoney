@@ -1,5 +1,6 @@
 # QMoney -  A visual stock portfolio analyzer
 QMoney is a visual stock portfolio analyzer. It helps portfolio managers make trade recommendations for their clients.
+
 During the course of this project,
 
 Implemented the core logic of the portfolio manager and published it as a library.
