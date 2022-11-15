@@ -48,5 +48,14 @@ Skills used:
 
 Multithreading
 
+# Images
+QMoney Architecture
+![Qmoney Architecture (1)](https://user-images.githubusercontent.com/55679683/201857717-193f8183-28a8-4727-9213-431bc109f2f8.png)
 
+QMoney Portfolio Manager Interface
+![QMoney Portfolio Manager Interface](https://user-images.githubusercontent.com/55679683/201858050-2e077355-f4fe-4d57-9c6f-f6beb9cd64cf.png)
+
+
+
+                                                
 
